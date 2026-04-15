@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
-  "name": "my-theme",
+  "name": "ghostty",
   "colors": {
     "accent": "#7aa6da",
     "border": "#82a2be",
